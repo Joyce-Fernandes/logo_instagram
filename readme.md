@@ -4,7 +4,7 @@
 ⭐ Recreating Instagram's new logo in HTML and CSS, here is the result in visual Studio Code: ⭐
 </pre>
 
-<img width="80%" align="center" src="/logo.png" alt="logo" /> <br/>
+<img width="80%" align="center" src="/logo_instagram.png" alt="logo" /> <br/>
 
 
 
